@@ -1,1 +1,1 @@
-This is web PHP application with MVC Concept 😁
+This is a web PHP application with MVC Concept 😁
